@@ -1,1 +1,2 @@
 # PortFolio-Front-Display
+"A beautifully designed portfolio homepage crafted with HTML and CSS, showcasing a modern blur background effect for an elegant and immersive user experience. This project emphasizes responsive design principles to ensure compatibility across devices, creating a professional platform to highlight skills, projects, and achievements. The clean and minimalistic layout reflects attention to detail and a strong focus on user-friendly navigation."
